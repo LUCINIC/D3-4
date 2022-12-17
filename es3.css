@@ -1,0 +1,92 @@
+.image { 
+   background-color:  rgb(72, 72, 79); 
+   margin-top: 0px;
+} 
+.orange {
+    text-align: center; 
+    background-color: rgb(245, 186, 78); 
+margin-top: 0px;
+} 
+
+.orizon li{ 
+    border: 10em;
+    display: inline;  
+    font-size: 300%; 
+    font-family: Arial, Helvetica, sans-serif;
+    padding : 8px; 
+    color: white;
+    
+
+
+   
+} 
+nav { 
+    background-color: rgb(50, 50, 87); 
+
+}
+.imagenatale {
+    width: 4200px;
+    padding-left: 15%;
+    margin-top: 8%;
+}
+  
+
+.ref { 
+    font-size: 200%;
+    padding-left:  20%; 
+    margin-top: 5%;
+}
+
+.imageline {
+    display: inline; 
+    margin: 7%;
+}
+
+.image4 {
+    width : 15% ;
+    margin : 3% ;
+     border-radius: 25px ; 
+     height: 10%;
+} 
+.imagecuffie {
+    padding-left: 1400px;
+    margin: 30px;
+} 
+.firstimage{
+    width: 2900px;
+} 
+.offirstimage { 
+    margin-left: 24%;
+
+} 
+h3 {
+    text-align: center; 
+    margin-right:10%;
+    font-size: 300%;
+}
+
+
+.line {
+    display: inline; 
+    width: 100%;
+    
+} 
+#back{ 
+    margin-top: 25px;
+    line-height: 30px;
+    background-color: #141921;
+    text-align: center;
+
+} 
+.backend {
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+} 
+
+.logofinish {
+    background-color: rgb(72, 72, 79); 
+    text-align: center; 
+    
+
+} 
